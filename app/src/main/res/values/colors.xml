@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Primary colors -->
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="colorPrimaryLight">#42A5F5</color>
+    
+    <!-- Accent colors -->
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorAccentDark">#F50057</color>
+    <color name="colorAccentLight">#FF80AB</color>
+    
+    <!-- Text colors -->
+    <color name="textPrimary">#212121</color>
+    <color name="textSecondary">#757575</color>
+    <color name="textHint">#9E9E9E</color>
+    
+    <!-- Background colors -->
+    <color name="background">#FAFAFA</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="divider">#EEEEEE</color>
+    
+    <!-- Status colors -->
+    <color name="success">#4CAF50</color>
+    <color name="error">#F44336</color>
+    <color name="warning">#FFC107</color>
+    <color name="info">#2196F3</color>
+    
+    <!-- Call status colors -->
+    <color name="callIncoming">#4CAF50</color>
+    <color name="callOutgoing">#2196F3</color>
+    <color name="callMissed">#F44336</color>
+    
+    <!-- Group colors -->
+    <color name="groupFamily">#4CAF50</color>
+    <color name="groupFriends">#2196F3</color>
+    <color name="groupWork">#FFC107</color>
+    <color name="groupOther">#9E9E9E</color>
+
+    <!-- Material Design colors -->
+    <color name="green_500">#4CAF50</color>
+    <color name="red_500">#F44336</color>
+
+    <!-- Avatar colors -->
+    <array name="avatar_colors">
+        <item>#F44336</item> <!-- Red -->
+        <item>#E91E63</item> <!-- Pink -->
+        <item>#9C27B0</item> <!-- Purple -->
+        <item>#673AB7</item> <!-- Deep Purple -->
+        <item>#3F51B5</item> <!-- Indigo -->
+        <item>#2196F3</item> <!-- Blue -->
+        <item>#03A9F4</item> <!-- Light Blue -->
+        <item>#00BCD4</item> <!-- Cyan -->
+        <item>#009688</item> <!-- Teal -->
+        <item>#4CAF50</item> <!-- Green -->
+        <item>#8BC34A</item> <!-- Light Green -->
+        <item>#CDDC39</item> <!-- Lime -->
+        <item>#FFC107</item> <!-- Amber -->
+        <item>#FF9800</item> <!-- Orange -->
+        <item>#FF5722</item> <!-- Deep Orange -->
+        <item>#795548</item> <!-- Brown -->
+        <item>#607D8B</item> <!-- Blue Grey -->
+    </array>
+</resources> 

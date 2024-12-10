@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_select_all"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="Select All"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_move_to_group"
+        android:title="移动到分组"
+        app:showAsAction="never">
+        <menu>
+            <item
+                android:id="@+id/move_to_family"
+                android:title="家人" />
+            <item
+                android:id="@+id/move_to_friends"
+                android:title="朋友" />
+            <item
+                android:id="@+id/move_to_work"
+                android:title="工作" />
+            <item
+                android:id="@+id/move_to_other"
+                android:title="其他" />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/action_delete"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:title="Delete"
+        app:showAsAction="ifRoom" />
+
+</menu> 

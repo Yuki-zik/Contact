@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="tab_contacts">联系人</string>
+    <string name="tab_dialpad">拨号</string>
+    <string name="tab_messages">短信</string>
+    <string name="add_contact">添加联系人</string>
+    <string name="edit_contact">编辑联系人</string>
+    <string name="delete_contact">删除联系人</string>
+    <string name="group_management">群组管理</string>
+    <string name="no_contacts">暂无联系人</string>
+    <string name="no_messages">暂无短信</string>
+    <string name="search_hint">搜索...</string>
+    <string name="call_log">通话记录</string>
+    <string name="call">Call</string>
+    <string name="enable_dial_sound">按键音效</string>
+</resources> 

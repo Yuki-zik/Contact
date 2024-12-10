@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    
+    <item
+        android:id="@+id/action_add_group"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="添加分组"
+        app:showAsAction="ifRoom"/>
+    
+    <item
+        android:id="@+id/action_sort_groups"
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        android:title="排序"
+        app:showAsAction="never"/>
+</menu> 

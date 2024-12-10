@@ -1,0 +1,42 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Java source files
+*.java text diff=java
+
+# Android/IntelliJ
+*.xml text
+*.gradle text
+*.properties text
+*.pro text
+
+# Images
+*.png binary
+*.jpg binary
+*.gif binary
+*.ico binary
+*.webp binary
+
+# Gradle wrapper
+gradlew text eol=lf
+gradlew.bat text eol=crlf
+
+# Documents
+*.md text diff=markdown
+*.txt text
+*.pdf binary
+
+# Scripts
+*.sh text eol=lf
+*.bat text eol=crlf
+
+# Archives
+*.jar binary
+*.war binary
+*.zip binary
+*.tar binary
+*.gz binary
+
+# Android resource files
+res/**/*.xml text
+AndroidManifest.xml text 
